@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ALEXEI2006
+- 👀 I’m interested in fasm,c/c++
